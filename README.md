@@ -1,2 +1,2 @@
-# Are-you-Chinese-Korean-or-Japanese-
+# Are you Chinese,Japanese or Korean?
 Image Classifer to classify Chinese, Japanese and Koreans
